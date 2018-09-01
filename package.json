@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "the first github trivel\r <html>\r <head>\r   <title></title>\r   <meta charset = \"utf-8\" />\r </head>\r <body>\r   <div>\r     hello world and hello beatiful girls.\r     www\r     another modify\r   </div>\r </body>\r </html>\r Add new line content 1002 test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zht1991/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zht1991/hello-world/issues"
+  },
+  "homepage": "https://github.com/zht1991/hello-world#readme"
+}
